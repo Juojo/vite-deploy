@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <h1>change but no pull request</h1>
+      <h2>new commit</h2>
     </>
   )
 }
