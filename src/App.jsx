@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1>dev branch</h1>
+      <h1>dev branch.</h1>
     </>
   )
 }
